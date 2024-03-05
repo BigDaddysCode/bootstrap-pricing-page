@@ -1,0 +1,20 @@
+h1{
+    margin-top: 60px;
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+.card-header{
+    text-align: center;
+    font-size: larger;
+}
+.card-title{
+    text-align: center;
+    font-size: xx-large;
+}
+.card-text{
+    text-align: center;
+    font-size: small;
+}
+
